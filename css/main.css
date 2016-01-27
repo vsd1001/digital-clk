@@ -1,0 +1,28 @@
+body{
+	background-color: grey;
+}
+#red {
+	height:155px;
+	width: 340px;
+	border:5px solid black;
+	margin-left: 40%;
+	margin-top: 10%;
+	background-color: black;
+	border-radius: 40px;
+
+}
+
+#clockdisplay{
+    text-align: center;
+    margin-top: 7%;
+    margin-left: 5%;
+	height:90px;
+	width:300px;
+	border:5px solid black;
+	border-radius: 40px;
+	font-weight:bold;
+    font-size: 50px;
+    padding-top: 13px;
+	background-color: red;
+    
+}
